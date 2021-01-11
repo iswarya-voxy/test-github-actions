@@ -15,5 +15,5 @@ jobs:
           username: 'iswaryap'
           password: 'gwc7bcaRqM44'
           repository: iswaryap/divya
-          push: true
           tag_with_ref: true
+          push: true
