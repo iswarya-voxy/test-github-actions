@@ -14,5 +14,5 @@ jobs:
         with:
           username: 'iswaryap'
           password: 'gwc7bcaRqM44'
-          repository: iswaryap/icy
+          repository: iswaryap/divya
           tag_with_ref: true
