@@ -17,3 +17,6 @@ jobs:
           repository: iswaryap/divya
           file: ./Dockerfile
           tag_with_ref: true
+          push: true
+            tags: |
+              app:latest
