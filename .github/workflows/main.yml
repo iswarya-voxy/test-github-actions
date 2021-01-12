@@ -19,4 +19,4 @@ jobs:
           file: ./Dockerfile
           tag_with_ref: true
           push: true
-            tags: user/app:latest
+          tags: user/app:latest
