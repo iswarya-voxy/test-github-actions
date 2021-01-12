@@ -12,7 +12,7 @@ jobs:
       - name: Build the image
         uses: mr-smithers-excellent/docker-build-push@v5
         with:
-          image: webackend_image
+          image: test_github_actions
           registry: 763060245531.dkr.ecr.us-east-1.amazonaws.com
           dockerfile: ./Dockerfile
         env:
